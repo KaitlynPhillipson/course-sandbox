@@ -13,7 +13,7 @@
     <target name="activities-web" format="html" source="activities.ptx"
             publication="publication.ptx" deploy-dir="worksheets" />
     <target name="activities-print" format="pdf" source="activities.ptx"
-            output-filename="activities.pdf" publication="publication.ptx" />
+            output-filename="activities.pdf" publication="publication.ptx" />         
 
     <target name="notes-web" format="html" source="notes.ptx"
             publication="publication.ptx" deploy-dir="notes" />
